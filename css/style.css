@@ -448,6 +448,14 @@
 					background-image: url('images/arrow.svg');
 				}
 
+				.icon {
+					width: 5em;
+					height: 5em;
+					margin: 1em;
+					margin-bottom: 5em;
+
+				}
+
 	/* Box */
 
 		.box {
