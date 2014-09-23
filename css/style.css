@@ -456,6 +456,11 @@
 
 				}
 
+				.icon:hover {
+					background-color: rgba(145,146,147,0.065);
+					border-radius: 3em;
+				}
+
 	/* Box */
 
 		.box {
@@ -1102,10 +1107,10 @@
 	}
 
 /*********************************************************************************/
-/* One                                                                           */
+/* What                                                                          */
 /*********************************************************************************/
 
-	#one {
+	#what {
 		background: url('images/overlay.png'), url('../images/italy1.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -1113,10 +1118,10 @@
 	}
 
 /*********************************************************************************/
-/* Two                                                                           */
+/* Who                                                                           */
 /*********************************************************************************/
 
-	#two {
+	#who {
 		background: url('images/overlay.png'), url('../images/aust2.png');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
